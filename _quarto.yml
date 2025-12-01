@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "beomsu world"
+  navbar:
+    left:
+      - file: index.qmd
+        text: Home
+      - file: about.qmd
+        text: About
+      - file: LM.qmd
+        text: Language Models
+format:
+  html:
+    theme: cosmo
