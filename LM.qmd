@@ -1,8 +1,0 @@
----
-title: "Language models"
-format: html
----
-
-this fall, I have learned about language models.
-
-We analyzed texts from [Jane Austen's](austen.hrml) novels.
